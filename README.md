@@ -1,7 +1,7 @@
 # File Structure
 
 
-social_network_project/
+*** social_network_project/
 ├── config/database.php          # Database configuration
 ├── classes/                     # OOP classes
 │   ├── User.php                # User management
@@ -21,4 +21,5 @@ social_network_project/
 │   ├── css/style.css           # Complete styling
 │   ├── js/script.js            # JavaScript functionality
 │   └── uploads/                # File uploads
-└── index.php                   # Entry point
+└── index.php                   # Entry point  
+***
